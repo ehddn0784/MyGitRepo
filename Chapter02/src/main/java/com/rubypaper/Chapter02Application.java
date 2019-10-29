@@ -9,7 +9,7 @@ public class Chapter02Application {
 	// git commit test2
 	public static void main(String[] args) {
 		SpringApplication.run(Chapter02Application.class, args);
-		//
+		System.out.println();
 	}
 
 }
